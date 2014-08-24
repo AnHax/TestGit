@@ -1,0 +1,9 @@
+Tutorial for using Git:
+git config --global user.name "AnHax"
+git config --global user.email "starforce.master.2142@gmail.com"
+touch file.extension
+vim file.extension
+escape -> :x
+git add file.extension
+git commit -m "statement"
+git push

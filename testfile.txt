@@ -7,3 +7,8 @@ escape -> :x
 git add file.extension
 git commit -m "statement"
 git push
+
+Extra:
+git status
+git log
+git pull
